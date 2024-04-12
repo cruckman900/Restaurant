@@ -12,6 +12,7 @@
     }
 
     &-banner {
+        text-align: center;
         @include centering(50%);
     }
 }
